@@ -10,7 +10,7 @@ A MERN-stack application that demonstrates JWT-based authentication using a Reac
 ## Running the App
 
 - **Frontend**: In the frontend directory, run `npm run dev`.
-- **Backend**: In the backend directory, run `node run dev`.
+- **Backend**: In the backend directory, run `npm run dev`.
 
 ## Features
 
